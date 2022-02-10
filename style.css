@@ -1,0 +1,28 @@
+*{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.heading{
+    font-family: 'Lobster', cursive;
+    font-size: 45px;
+    color: #15B41C;
+}
+#contact_us{
+    font-size: 23px;
+}
+.details{
+    margin: 40px 0px 0px 310px;
+}
+#contact_us a{
+    margin: 10px;
+}
+#contact_us img{
+    border: 7px solid #15B41C;
+    border-radius: 50%;
+    margin: 40px;
+}
+#contact_us img:hover{
+    border-color: #2B75D6;
+}
+.socialmedia{
+    text-align: center;
+}
